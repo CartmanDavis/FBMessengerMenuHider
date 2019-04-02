@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Hide Facebook Menu",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.facebook.com/messages/t/*",
+        "http://www.facebook.com/messages/t/*"
+      ],
+      "js": ["hider.js"]
+    }
+  ]
+}
