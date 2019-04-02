@@ -4,7 +4,7 @@ Google Chrome extension to hide the menu in Facebook messenger. Prevents acciden
 ---
 
 # Installation 
-[Download this repository](https://github.com/CartmanDavis/FBMessengerMenuHider/archive/master.zip). Unzip it, you can call it whatever you'd like. In Google Chrome, nagivate to the url chrome://extensions. Toggle "Developer mode" to on (top right of the page). Then, select "Load unpacked" (top left), and choose the previously downloaded folder. Enjoy one less distraction in Facebook messenger. 
+[Download this repository](https://github.com/CartmanDavis/FBMessengerMenuHider/archive/master.zip). Unzip it, you can call it whatever you'd like. In Google Chrome, nagivate to the url chrome://extensions. Toggle "Developer mode" to on (top right of the page). Then, select "Load unpacked" (top left), and choose the previously downloaded folder. Be sure that you've selected the folder that contains the files, and not a folder containing that one. Enjoy one less distraction in Facebook messenger. 
 
 ---
 
